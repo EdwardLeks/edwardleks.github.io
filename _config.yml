@@ -21,13 +21,10 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 2
   exclude:
     archived: false
     forks: false
-    projects:
-    - corona_counter
-    - ExoFoodApp
 
 social_media:
   behance: your_username
